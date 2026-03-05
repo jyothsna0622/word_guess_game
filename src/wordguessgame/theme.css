@@ -1,0 +1,75 @@
+/* PAGE BACKGROUND */
+body{
+  margin:0;
+  font-family: "Segoe UI", Arial, sans-serif;
+  background:#f3f6fb;
+  color:#333;
+}
+
+/* CENTER CONTENT */
+.page-container{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  min-height:100vh;
+}
+
+/* TITLE */
+.main-title{
+  font-size:58px;
+  font-weight:700;
+  color:#2563eb;
+  margin-bottom:30px;
+  letter-spacing:1px;
+}
+
+/* CARD */
+.card{
+  background:white;
+  padding:40px 50px;
+  border-radius:14px;
+  box-shadow:0 10px 25px rgba(0,0,0,0.08);
+}
+
+/* BUTTON GROUP */
+.button-group{
+  display:flex;
+  gap:20px;
+}
+
+/* BUTTON BASE */
+.btn{
+  padding:12px 30px;
+  font-size:16px;
+  border:none;
+  border-radius:8px;
+  cursor:pointer;
+  color:white;
+  font-weight:500;
+  transition:0.2s;
+}
+
+/* BUTTON COLORS */
+.easy{
+  background:#22c55e;
+}
+
+.medium{
+  background:#f59e0b;
+}
+
+.hard{
+  background:#ef4444;
+}
+
+/* BUTTON HOVER */
+.btn:hover{
+  transform:translateY(-2px);
+  opacity:0.9;
+}
+
+.card h3{
+  margin-top:10px;
+  margin-bottom:20px;
+}

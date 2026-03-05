@@ -1,0 +1,37 @@
+		 	 	 	 	 		 	 	 	 {
+  "easy": [
+    "apple","ball","cat","dog","book","tree","sun","moon","star","fish",
+    "milk","rice","bread","water","chair","table","phone","pen","cup","shoe",
+    "bag","door","road","park","farm","bird","cake","salt","wind","rain",
+    "fire","snow","leaf","sand","hill","rock","boat","ship","king","queen",
+    "ring","lamp","desk","coat","hat","sock","wall","roof","gift","card",
+    "gold","blue","pink","dark","light","happy","smile","laugh","green","brown",
+    "black","white","train","plane","bus","car","bike","clock","watch","plant",
+    "grass","river","cloud","storm","fruit","mango","grape","peach","lemon","onion",
+    "sugar","spice","sweet","bread","butter","cream","cheese","juice","tiger","lion",
+    "horse","zebra","sheep","goat","duck","frog","snake","mouse","earth","world"
+  ],
+  "medium": [
+    "planet","garden","window","school","market","forest","silver","golden","butter","flower",
+    "doctor","nurse","engine","rocket","pencil","notebook","laptop","screen","camera","mobile",
+    "bridge","castle","island","desert","ocean","mountain","valley","village","city","country",
+    "energy","power","system","design","future","dream","travel","flight","ticket","hotel",
+    "coffee","dinner","break","lunch","party","music","guitar","piano","drums","dance",
+    "movie","actor","artist","writer","reader","player","winner","loser","battle","leader",
+    "friend","family","parent","child","sister","brother","uncle","aunt","cousin","neighbor",
+    "health","fitness","sports","cricket","tennis","soccer","hockey","volley","basket","medal",
+    "signal","network","server","memory","storage","coding","python","react","binary","logic",
+    "object","array","string","number","method","class","branch","merge","commit","deploy"
+  ],
+  "hard": [
+    "algorithm","database","function","variable","constant","operator","internet","security","protocol","hardware",
+    "software","compiler","debugger","framework","library","interface","component","lifecycle","asynchronous","synchronous",
+    "developer","designer","analysis","structure","architecture","performance","optimization","simulation","automation","virtual",
+    "creative","strategy","planning","management","leadership","innovation","research","solution","problem","critical",
+    "dynamic","complex","advanced","concept","theory","physics","chemistry","biology","geology","history",
+    "economics","finance","investment","business","marketing","branding","digital","content","platform","networking",
+    "machine","learning","artificial","intelligence","neural","pattern","recognition","prediction","classification","training",
+    "frontend","backend","fullstack","responsive","animation","routing","stateful","stateless","integration","deployment",
+    "collaborate","communication","presentation","documentation","evaluation","improvement","professional","experience","portfolio","achievement"
+  ]
+}
